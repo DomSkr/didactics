@@ -9,21 +9,29 @@ Pycharm is recommended however any other IDE/editor is fine :)
 If you choose pycharm, python can be installed without the need of another installer.
 ## Workshop
 
-### Python introduction
+### Class1
+##### Python introduction
 
 * [Beginner cheatsheet](https://github.com/ehmatthes/pcc/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc.pdf)
 * Exercise
 
-### Regression
+### Class2
+##### Regression
 
 * Before AI approach - [least squares](https://en.wikipedia.org/wiki/Least_squares)
+    * [Do it yourself!](random_2d_dataset.py)
+    * [Numpy polyfit](polyfit.py)
 * Machine learning concepts
 * [Exercise](docs/LEVEL1.md)
 
-### Minimum distance classifier???????
+##### Minimum distance classifier???????
 
-* [Level 2](docs/LEVEL2.md)
+* [Exercise](docs/LEVEL2.md)
 
-### Neural Networks
+### Class3
+##### Neural Networks
 
-* [Level 5](docs/LEVEL5.md)
+* [Exercise](docs/LEVEL5.md)
+
+### Further examples
+* 
