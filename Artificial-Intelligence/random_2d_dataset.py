@@ -1,10 +1,5 @@
 import numpy
 import matplotlib.pyplot as plot
-from datetime import datetime
-
-# create random numbers generator
-seed = int(datetime.now().timestamp())
-numpy.random.seed(seed)
 
 # create random dataset
 n_points = 200
