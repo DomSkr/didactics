@@ -27,7 +27,7 @@ You can also do this course online by using  [Google Colab](hhtps://colab.resear
     * [Do it yourself!](random_2d_dataset.py)
     * [Numpy polyfit](polyfit.py)
 * Machine learning concepts
-* [Exercise](docs/LEVEL1.md)
+* [Exercise](docs/regression.md)
 
 ##### Data classification
 
@@ -35,11 +35,13 @@ You can also do this course online by using  [Google Colab](hhtps://colab.resear
     * [Python solution](https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/Solving%20A%20Simple%20Classification%20Problem%20with%20Python.ipynb)
     * [Article](https://towardsdatascience.com/solving-a-simple-classification-problem-with-python-fruits-lovers-edition-d20ab6b071d2)
     * [Data](fruit_data_with_colors.txt)
-* [Exercise](docs/LEVEL2.md)
+* [Exercise](docs/data_class.md)
 
 ##### Neural Networks examples
 
-* [Exercise](docs/LEVEL5.md)
+* [Exercise](docs/nn.md)
 
-### Further examples
-* 
+### Further examples/exercises
+* [Mnist dataset classification using tensorflow](https://github.com/KamilLepek/Image-Classification/blob/master/3_Layer_Neural_Network.py)
+* [Cats/dogs](https://github.com/gsurma/image_classifier/blob/master/image_classifier.ipynb)
+* [CNN for CIFAR-10](https://github.com/ltpitt/python-jupyter-image-classification/blob/master/dlnd_image_classification.ipynb)
