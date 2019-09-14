@@ -11,7 +11,7 @@ def calculate_error(b, a, points):
     return error / float(len(points))
 
 
-def gradient_step(b_current, a_current, points, learningRate):
+def gradient_step(b_current, a_current, points, learning_rate):
     new_b = b_current
     new_a = a_current
 
@@ -25,7 +25,7 @@ def gradient_descent_runner(points, starting_b, starting_a, learning_rate, num_i
     a = starting_a
 
     dd = arange(0, 100, 0.1)
-    p = poly1d([0, 0])
+    p = poly1d([a, b])
 
     fig = plot.figure()
     ax = fig.add_subplot(111)
@@ -52,10 +52,9 @@ if __name__ == '__main__':
 
     # y=ax+b so initial is y=0
 
-    print("Starting gradient descent at b = {0}, a = {1}, error = {2}".format(initial_b, initial_a,
-                                                                              calculate_error(initial_b, initial_a,
-                                                                                              points)))
+    print("Starting gradient descent at b = {0}, a = {1}, error = {2}"
+          .format(initial_b, initial_a, calculate_error(initial_b, initial_a, points)))
     print("Running...")
     [b, a] = gradient_descent_runner(points, initial_b, initial_a, learning_rate, num_iterations)
-    print("After {0} iterations b = {1}, a = {2}, error = {3}".format(num_iterations, b, a,
-                                                                      calculate_error(b, a, points)))
+    print("After {0} iterations b = {1}, a = {2}, error = {3}"
+          .format(num_iterations, b, a, calculate_error(b, a, points)))
