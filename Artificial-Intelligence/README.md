@@ -25,9 +25,10 @@ You can also do this course online by using  [Google Colab](hhtps://colab.resear
 
 * Before AI approach - [least squares](https://en.wikipedia.org/wiki/Least_squares)
     * [Do it yourself!](random_2d_dataset.py)
-    * [Numpy polyfit](polyfit.py)
+    * [Polynomial regression](polyfit.py)
 * Machine learning concepts
-* [Exercise](docs/regression.md)
+* [Gradient descent exercise](docs/regression.md)
+* [More regression examples](https://nbviewer.jupyter.org/github/JWarmenhoven/ISL-python/blob/master/Notebooks/Chapter%203.ipynb)
 
 ##### Data classification
 
@@ -35,13 +36,33 @@ You can also do this course online by using  [Google Colab](hhtps://colab.resear
     * [Python solution](https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/Solving%20A%20Simple%20Classification%20Problem%20with%20Python.ipynb)
     * [Article](https://towardsdatascience.com/solving-a-simple-classification-problem-with-python-fruits-lovers-edition-d20ab6b071d2)
     * [Data](fruit_data_with_colors.txt)
-* [Exercise](docs/data_class.md)
+* Flower species
+    * [Python solution](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
+* Unlabeled data - Clustering
+    * [Python solution](https://github.com/rasbt/python-machine-learning-book/blob/master/code/ch11/ch11.ipynb)
+* K-means - Clustering
+    * [Python example](https://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise7.ipynb)
 
-##### Neural Networks examples
+##### Image recognition
 
-* [Exercise](docs/nn.md)
+* MNIST dataset
+    * [Solutions comparison](https://github.com/docmarionum1/python-data-science-primer/blob/master/scikitlearn/classification.ipynb)
+    * [Mnist dataset classification using tensorflow](https://github.com/KamilLepek/Image-Classification/blob/master/3_Layer_Neural_Network.py)
+* [Dogs vs Cats](https://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/fastai/Fastai-Lesson1.ipynb)
+
+
+##### Language
+
+* Sentiment analysis
+    * [Theory](https://en.wikipedia.org/wiki/Sentiment_analysis)
+    * [Example2](https://github.com/rasbt/python-machine-learning-book/blob/master/code/ch08/ch08.ipynb)
+* [Language modeling](https://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/fastai/Fastai-Lesson4.ipynb)
+    
 
 ### Further examples/exercises
-* [Mnist dataset classification using tensorflow](https://github.com/KamilLepek/Image-Classification/blob/master/3_Layer_Neural_Network.py)
+* [Python machine learning book](https://github.com/rasbt/python-machine-learning-book)
+* [Learn data science](https://github.com/nborwankar/LearnDataScience)
 * [Cats/dogs](https://github.com/gsurma/image_classifier/blob/master/image_classifier.ipynb)
 * [CNN for CIFAR-10](https://github.com/ltpitt/python-jupyter-image-classification/blob/master/dlnd_image_classification.ipynb)
+* [Python AI examples](https://github.com/jdwittenauer/ipython-notebooks)
+* [Scikit tutorial](https://github.com/jakevdp/sklearn_tutorial)
