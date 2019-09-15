@@ -11,7 +11,7 @@ If you choose pycharm, python can be installed without the need of another insta
 You can also do this course online by using  [Google Colab](hhtps://colab.research.google.com)
 ## Workshop
 
-##### Python introduction
+### Python introduction
 
 * [Beginner cheatsheet](https://github.com/ehmatthes/pcc/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc.pdf)
 * Exercise
@@ -21,7 +21,7 @@ You can also do this course online by using  [Google Colab](hhtps://colab.resear
     * [3](https://www.codewars.com/kata/count-by-x/python)
     * [4](https://www.codewars.com/kata/sum-of-odd-numbers/python)
 
-##### Regression
+### Regression
 
 * Before AI approach - [least squares](https://en.wikipedia.org/wiki/Least_squares)
     * [Do it yourself!](random_2d_dataset.py)
@@ -30,7 +30,7 @@ You can also do this course online by using  [Google Colab](hhtps://colab.resear
 * [Gradient descent exercise](docs/regression.md)
 * [More regression examples](https://nbviewer.jupyter.org/github/JWarmenhoven/ISL-python/blob/master/Notebooks/Chapter%203.ipynb)
 
-##### Data classification
+### Data classification
 
 * Fruits classification example
     * [Python solution](https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/Solving%20A%20Simple%20Classification%20Problem%20with%20Python.ipynb)
@@ -43,7 +43,7 @@ You can also do this course online by using  [Google Colab](hhtps://colab.resear
 * K-means - Clustering
     * [Python example](https://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise7.ipynb)
 
-##### Image recognition
+### Image recognition
 
 * MNIST dataset
     * [Solutions comparison](https://github.com/docmarionum1/python-data-science-primer/blob/master/scikitlearn/classification.ipynb)
@@ -51,7 +51,7 @@ You can also do this course online by using  [Google Colab](hhtps://colab.resear
 * [Dogs vs Cats](https://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/fastai/Fastai-Lesson1.ipynb)
 
 
-##### Language
+### Language
 
 * Sentiment analysis
     * [Theory](https://en.wikipedia.org/wiki/Sentiment_analysis)
