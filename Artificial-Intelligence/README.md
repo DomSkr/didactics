@@ -49,20 +49,52 @@ You can also do this course online by using  [Google Colab](hhtps://colab.resear
     * [Solutions comparison](https://github.com/docmarionum1/python-data-science-primer/blob/master/scikitlearn/classification.ipynb)
     * [Mnist dataset classification using tensorflow](https://github.com/KamilLepek/Image-Classification/blob/master/3_Layer_Neural_Network.py)
 * [Dogs vs Cats](https://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/fastai/Fastai-Lesson1.ipynb)
-
+* [Another Dogs vs Cats](https://github.com/gsurma/image_classifier/blob/master/image_classifier.ipynb)
+* [Google quickdraw](https://quickdraw.withgoogle.com/)
 
 ### Language
 
 * Sentiment analysis
     * [Theory](https://en.wikipedia.org/wiki/Sentiment_analysis)
-    * [Example2](https://github.com/rasbt/python-machine-learning-book/blob/master/code/ch08/ch08.ipynb)
+    * [Example](https://github.com/rasbt/python-machine-learning-book/blob/master/code/ch08/ch08.ipynb)
 * [Language modeling](https://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/fastai/Fastai-Lesson4.ipynb)
     
 
+### Videos
+
+* [Hide and seek](https://www.youtube.com/watch?v=kopoLzvh5jY)
+* [Deep learning cars](https://www.youtube.com/watch?v=Aut32pR5PQA)
+* [Learn dexterity](https://www.youtube.com/watch?v=jwSbzNHGflM)
+* [DOTA](https://www.youtube.com/watch?v=UZHTNBMAfAA)
+* [Self-play](https://www.youtube.com/watch?v=OBcjhp4KSgQ)
+* Learning to  walk
+    * [Example1](https://www.youtube.com/watch?v=gn4nRCC9TwQ)
+    * [Flexible muscle based](https://www.youtube.com/watch?v=pgaEE27nsQw)
+* [Neural Candy](https://www.youtube.com/watch?v=ws3-Nl8_1qU)
+* [Sound teddy](https://experiments.withgoogle.com/sound-teddy)
+* [Rock, paper, scissors](https://www.youtube.com/watch?v=hyNruFqe1L0)
+* [What neural networks see](https://experiments.withgoogle.com/what-neural-nets-see)
+
 ### Further examples/exercises
+* [Google AI experiments](https://experiments.withgoogle.com/collection/ai)
+    * [Quick, draw!](https://quickdraw.withgoogle.com/)
+    * [Sketch RNN](https://magenta.tensorflow.org/sketch-rnn-demo)
+    * [Real time drawing prediction](https://andymatuschak.org/scrying-pen/)
+    * [Handwriting](https://distill.pub/2016/handwriting/)
+    * [Teachable snake](https://experiments.withgoogle.com/teachable-snake)
+    * [Shadow art](https://experiments.withgoogle.com/shadow-art)
+    * [Imaginary soundscape](https://experiments.withgoogle.com/imaginary-soundscape)
+    * [Speech drawing](https://experiments.withgoogle.com/scribbling-speech)
+    * [Font similarity](https://experiments.withgoogle.com/fontjoy)
+    * [Semantris](https://research.google.com/semantris/)
+    * [Beat blender](https://experiments.withgoogle.com/ai/beat-blender/view/)
+    * [Font map](http://fontmap.ideo.com/)
+* Deepfake
+    * [Wiki](https://pl.wikipedia.org/wiki/Deepfake)
+    * [Examples](https://www.creativebloq.com/features/deepfake-examples)
 * [Python machine learning book](https://github.com/rasbt/python-machine-learning-book)
 * [Learn data science](https://github.com/nborwankar/LearnDataScience)
-* [Cats/dogs](https://github.com/gsurma/image_classifier/blob/master/image_classifier.ipynb)
 * [CNN for CIFAR-10](https://github.com/ltpitt/python-jupyter-image-classification/blob/master/dlnd_image_classification.ipynb)
 * [Python AI examples](https://github.com/jdwittenauer/ipython-notebooks)
 * [Scikit tutorial](https://github.com/jakevdp/sklearn_tutorial)
+* [Google AI](https://ai.google/)
