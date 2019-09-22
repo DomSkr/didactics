@@ -74,6 +74,11 @@ You can also do this course online by using  [Google Colab](hhtps://colab.resear
 * [Sound teddy](https://experiments.withgoogle.com/sound-teddy)
 * [Rock, paper, scissors](https://www.youtube.com/watch?v=hyNruFqe1L0)
 * [What neural networks see](https://experiments.withgoogle.com/what-neural-nets-see)
+* [Simulation of the Evolution of Aggression](https://www.youtube.com/watch?v=YNMkADpvO4w)
+* QWOP
+   * [Game](https://www.google.com/search?client=firefox-b-d&q=qwop)
+   * [AI plays QWOP](https://www.youtube.com/watch?v=e27TUmMkOA0)
+* [Google dinosaur by AI](https://www.youtube.com/watch?v=sB_IGstiWlc)
 
 ### Further examples/exercises
 * [Google AI experiments](https://experiments.withgoogle.com/collection/ai)
