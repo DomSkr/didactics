@@ -51,6 +51,9 @@ You can also do this course online by using  [Google Colab](hhtps://colab.resear
 * [Dogs vs Cats](https://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/fastai/Fastai-Lesson1.ipynb)
 * [Another Dogs vs Cats](https://github.com/gsurma/image_classifier/blob/master/image_classifier.ipynb)
 * [Google quickdraw](https://quickdraw.withgoogle.com/)
+* [Xray](https://colab.research.google.com/github/mdai/ml-lessons/blob/master/lesson1-xray-images-classification.ipynb)
+* [Cifar-10](https://mc.ai/cnn-image-classification-using-cifar-10-dataset-on-google-colab-tpu/)
+* [Dog breeds](https://colab.research.google.com/drive/1ig439LU2Hrwo2isV6h7tguJgeFww9TaH)
 
 ### Language
 
@@ -59,6 +62,14 @@ You can also do this course online by using  [Google Colab](hhtps://colab.resear
     * [Example](https://github.com/rasbt/python-machine-learning-book/blob/master/code/ch08/ch08.ipynb)
 * [Language modeling](https://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/fastai/Fastai-Lesson4.ipynb)
     
+
+### Evolution
+* [Python game](https://keiwan.itch.io/evolution)
+
+
+### Decision Trees and Random forests
+* [Data classification](https://share.cocalc.com/share/8b892baf91f98d0cf6172b872c8ad6694d0f7204/PythonDataScienceHandbook/notebooks/05.08-Random-Forests.ipynb)
+
 
 ### Videos
 
