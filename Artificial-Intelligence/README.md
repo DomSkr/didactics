@@ -63,6 +63,13 @@ You can also do this course online by using  [Google Colab](hhtps://colab.resear
 * [Language modeling](https://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/fastai/Fastai-Lesson4.ipynb)
     
 
+### Fuzzy logic
+* Example
+    * [Definition](https://en.wikipedia.org/wiki/Fuzzy_logic)
+    * Example : ```git clone https://github.com/seanwu1105/fuzzy-car.git```
+    * [Description](https://github.com/seanwu1105/fuzzy-car)
+
+
 ### Evolution
 * [Python game](https://keiwan.itch.io/evolution)
 
