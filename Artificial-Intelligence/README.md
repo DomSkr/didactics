@@ -108,6 +108,7 @@ You can also do this course online by using  [Google Colab](hhtps://colab.resear
 * Deepfake
     * [Wiki](https://pl.wikipedia.org/wiki/Deepfake)
     * [Examples](https://www.creativebloq.com/features/deepfake-examples)
+    * [More examples](https://www.youtube.com/watch?v=RoGHVI-w9bE)
     * [Deepfake detection research](https://ai.googleblog.com/2019/09/contributing-data-to-deepfake-detection.html)
 * [Python machine learning book](https://github.com/rasbt/python-machine-learning-book)
 * [Learn data science](https://github.com/nborwankar/LearnDataScience)
