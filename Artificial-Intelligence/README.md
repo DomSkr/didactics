@@ -66,7 +66,11 @@ You can also do this course online by using  [Google Colab](hhtps://colab.resear
 ### Fuzzy logic
 * Example
     * [Definition](https://en.wikipedia.org/wiki/Fuzzy_logic)
-    * Example : ```git clone https://github.com/seanwu1105/fuzzy-car.git```
+    * Example :  
+      ```git clone https://github.com/KamilLepek/fuzzy-car.git```  
+      ```cd fuzzy-car/```  
+      ```pip3 install -r requirements.txt```  
+      ```python main.py```  
     * [Description](https://github.com/seanwu1105/fuzzy-car)
 
 
