@@ -82,6 +82,16 @@ You can also do this course online by using  [Google Colab](hhtps://colab.resear
 * [Data classification](https://share.cocalc.com/share/8b892baf91f98d0cf6172b872c8ad6694d0f7204/PythonDataScienceHandbook/notebooks/05.08-Random-Forests.ipynb)
 
 
+### Google colab exercises
+* Language
+   * [Movie reviews](https://research.google.com/seedbank/seed/classify_movie_reviews_using_tfkeras)
+   * [Shakespeare](https://research.google.com/seedbank/seed/generate_shakespeare_using_tfkeras)
+   * [Sentiment classifier](https://research.google.com/seedbank/seed/text_classifier_with_tfhub)
+* Images
+   * [Handwritten digits](https://research.google.com/seedbank/seed/classifying_handwritten_digits)
+   * [Fashion MNIST](https://research.google.com/seedbank/seed/fashion_mnist_with_keras_and_tpus)
+
+
 ### Videos
 
 * [Hide and seek](https://www.youtube.com/watch?v=kopoLzvh5jY)
