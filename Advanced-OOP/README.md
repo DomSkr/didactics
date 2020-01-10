@@ -1,1 +1,5 @@
-# Advanced Object Oriented Programming
+# Advanced Object Oriented Programming (C#)
+## [Zadanie 1 - Funkcje anonimowe/LINQ](ex1/README.md)
+## [Zadanie 2 - Typy generyczne](ex2/README.md)
+## [Zadanie 3 - Typy dynamiczne](ex3/README.md)
+## [Zadanie 4 - Programowanie równolegle](ex4/README.md)
