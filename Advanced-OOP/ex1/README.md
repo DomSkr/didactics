@@ -2,11 +2,11 @@
 [Funkcje anonimowe (Wyrażenia lambda)](https://pl.wikipedia.org/wiki/Funkcja_anonimowa) to definicje funkcji, które nie są powiązane z identyfikatorem.  
 W C# możemy wyróżnić 2 rodzaje  
 * Expression lambda
-```
+```c#
 (input-parameters) => expression
 ```
 Przykład:
-```
+```c#
 Func<int, int> square = x => x * x;
 Console.WriteLine(square(5));
 // Output:
@@ -14,11 +14,11 @@ Console.WriteLine(square(5));
 ```
 ***
 * Statement lambda
-```
+```c#
 (input-parameters) => { <sequence-of-statements> }
 ```
 Przykład:
-```
+```c#
 Action<string> greet = name => 
 { 
     string greeting = $"Hello {name}!";
@@ -33,7 +33,7 @@ Najczęstsze użycie funkcji anonimowych (wyrażeń lambda) to wykorzystywanie j
 [Language Integrated Query (LINQ)](https://pl.wikipedia.org/wiki/LINQ) to część technologii Microsoft .NET umożliwiająca tworzenie zapytań na obiektach. Składnia przypomina język SQL.  
 [Oficjalna dokumentacja](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/)  
 Przykład zastosowania LINQ wraz z wyrażeniem lambda (funkcją anonimową):
-```
+```c#
 var Numbers = new int[] { 0, 5, 6, 7, 236, 2643743 };
 var Results = Numbers.Where(x => x > 6);
 ```
@@ -57,7 +57,7 @@ Stwórz klasę ``Student`` posiadającą pola, które widać w poniższym tworze
 * Listę studentów z nieparzystym ``StudentID``
 * Stwórz w klasie student metodę ``void Greet()``, która wypisuję powitanie ``Hi I am {this.StudentName}``.
 Następnie korzystając z [ForEach](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1.foreach?view=netframework-4.8) wykonaj tą metodę na każdym studencie niepochodzącym z Niemiec.
-```
+```c#
 List<Student> studentList = new List<Student>() { 
     new Student() { StudentID = 1, StudentName = "John", Age = 18, Country = "Poland"  } ,
     new Student() { StudentID = 2, StudentName = "Steve",  Age = 22, Country = "Poland"  } ,
@@ -70,7 +70,7 @@ List<Student> studentList = new List<Student>() {
 Wykorzystując LINQ wypisz wszystkie imiona i nazwiska wszystkich osób z poniższej listy, które spełniają przynajmniej 1 z poniższych warunków:
 * Imię to Joe lub Bob
 * Nazwisko to Smith
-```
+```c#
 var fullNameList = new List<string>();
 fullNameList.Add("Joe Thompson"):
 fullNameList.Add("Bob Jones");
@@ -83,7 +83,7 @@ fullNameList.Add("Bob Bobovich");
 ```
 ### Zad4 (4pkt)
 Wykorzystując LINQ wypisz z poniższej tablicy nazwiska osób posiadających przynajmniej 3 samogłoski w imieniu
-```
+```c#
 string [] names = { "Adam Malysz",  
                     "Mariusz Pudzianowski",  
                     "Steven Seagal",  
