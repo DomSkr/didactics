@@ -155,7 +155,7 @@ Output:
 
 ### [Parallel Class](https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.parallel?view=netframework-4.8)
 
-Klasa Parallel wprowadzona w .NET frameworku 4.8 umożliwia wykonywanie iteracji pętli for oraz foreach równolegle. Przykładowe użycie:
+Klasa Parallel umożliwia wykonywanie iteracji pętli for oraz foreach równolegle. Przykładowe użycie:
 
 ```c#
 void RotateMatrices(IEnumerable<Matrix> matrices, float degrees)
