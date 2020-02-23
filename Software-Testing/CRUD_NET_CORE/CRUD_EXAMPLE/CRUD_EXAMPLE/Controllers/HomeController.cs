@@ -20,7 +20,7 @@ namespace CRUD_EXAMPLE.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            return RedirectToAction("Index", "Opinias");
         }
 
         public IActionResult Privacy()
