@@ -6,15 +6,7 @@ Maszyna może być również bardzo przydana w laborce drugiej i czwartej.
 Maszynę należy sobie stworzyć od zera, potem jedynie podepniemy do niej dysk twardy przygotowany przez prowadzącego.
 Dysk twardy (plik VHD) zajmuje trochę ponad 5GB. Proszę zauważyć, że pobranie tak dużego pliku przez kilkanaście osób na laboratorium prawdopodobnie będzie niemożliwe. Dlatego należy przygotować się wcześniej i przynieść obraz maszyny wirtualnej na przykład na pendrive.
 
-Aby pobrać dysk maszyny wirtualnej:
-- Wejdź na stronę: https://s3.zylowski.net/
-- Zaloguj się danymi:
-
-Access Key: download
-
-Secret Key: P@ssw0rd
-- Z listy dostępnych plików wybierz "WSB_PR.vhd"
-- Następnie kliknij "Download object"
+Aby pobrać dysk maszyny wirtualnej kliknij [tutaj](https://drive.google.com/file/d/1rXKcHMqjjE3AOLNOm7c7FSZqcGCezzHk/view?usp=sharing).
 
 ### Utworzenie nowej maszyny i podpięcie dysku
 Gdy dysk twardy został pobrany i zapisany w dogodnej lokalizacji można przystąpić do stworzenia maszyny wirtualnej.
