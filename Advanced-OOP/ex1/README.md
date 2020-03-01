@@ -96,4 +96,4 @@ string [] names = { "Adam Malysz",
 ```
 ### Zad5 (4pkt)
 Następujący string reprezentuje punkty zawodnika (oddzielone przecinkami) zdobyte w kolejnych zawodach w pewnym sporcie: ``"10,5,0,8,10,1,4,0,10,1"``.
-W zasadach tego sportu 4 najgorsze rezultaty punktowe są odrzucane. Oblicz sumę punktów. Jedynie jednolinijkowe rozwiązania z wykorzystaniem LINQ będą akceptowane.
+W zasadach tego sportu 4 najgorsze rezultaty punktowe są odrzucane. Oblicz sumę punktów. Jedynie jednolinijkowe rozwiązania z wykorzystaniem LINQ będą akceptowane (w celu rozwiania wątpliwości - wyliczenie sumy jednolinijkowe. Prezentacja rezultatu może być w osobnej linii).
