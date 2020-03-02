@@ -17,7 +17,10 @@ char * tryHax(char * input);
 
 void chop(char * word) {
   int lenword = strlen(word);
-  if (word[lenword - 1] == '\n') {
+  if(word[lenword - 2] == ' ' || word[lenword - 2] == '\n' || word[lenword - 2] == '\r' || word[lenword - 2] == '\t') {
+     word[lenword - 2] = '\0';
+  }
+  if(word[lenword - 1] == ' ' || word[lenword - 1] == '\n' || word[lenword - 1] == '\r' || word[lenword - 1] == '\t') {
     word[lenword - 1] = '\0';
   }
 }
