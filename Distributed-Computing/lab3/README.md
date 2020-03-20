@@ -130,7 +130,7 @@ Przykładowy dockerfile:
 FROM ubuntu:18.04
 RUN apt update
 RUN apt -y install nginx
-CMD [“echo”, ”Image created”]
+CMD ["echo", "Image created"]
 ````
 
 Należy skopiować ten plik do dowolnej lokalizacji (najlepiej nowy pusty katalog) a plik nazwać `Dockerfile`. Następnie należy wejść do utworzonego katalogu i wykonać polecenie `docker build`.
