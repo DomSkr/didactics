@@ -275,7 +275,7 @@ Aby usunąć JOB'a należy wykonać polecenie:
 Oczywiście razem z Jobem zostanie usunięty Pod związany z zadaniem.
 
 #### Zadania domowe do samodzielnego wykonania
-1. Bazując na obrazie nginx należy utworzyć nowy obraz, w którym tekst hostowany przez server zostanie zastąpiony naszym numerem indeksu.
+1. Bazując na obrazie nginx należy utworzyć nowy obraz, w którym tekst hostowany przez server zostanie zastąpiony naszym numerem indeksu. Komentarz: poprzez bazując na obrazie nginx nie mam na myśli tego z zainstalowanym nginxem na ubuntu, który obsługiwaliśmy wyżej (choć też się da i nie zabraniam). Zalecam skorzystanie z obrazu nginx (``FROM nginx``) i wtedy zadanie domowe to dwulinijkowy ``Dockerfile``.
 Najlepiej utworzyć odpowiedni plik index.html w tej samej lokalizacji co plik Dockerfile i w procesie budowania skopiować go do lokalizacji `/usr/share/nginx/html`. Słowo kluczowe `COPY` w pliku Dockerfile, będzie tutaj przydatne.
 2. Uruchomić kontener i w przeglądarce internetowej zobaczyć zmodyfikowaną stronę. Przynieś zrzut na zajęcia dbając jednocześnie by było widać, że jesteś jego autorem (na przykład w tle widać, że jesteś zalogowany na swoje konto studenckie).
 3. Odpowiednio otagować obraz, stworzyć dla niego repozytorium i opublikować go z tagiem 1.0 na dockerhubie.
