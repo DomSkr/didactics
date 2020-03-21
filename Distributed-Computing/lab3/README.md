@@ -113,7 +113,7 @@ Httpd to serwer HTTP(S) stron internetowych. Uruchomimy teraz pobrany obraz i zo
 Uruchomiony tak kontener wystawi port 80 (domyślny port protokołu HTTP) na zewnątrz. Dodatkowo kontener otrzyma nazwę `www`.
 
 Za pomocą aplikacji `curl` odpytujemy o stronę internetową:
-```curl localhosl```
+```curl localhost```
 
 Powinien pojawić się kod HTML `<html><body><h1>It works!</h1></body></html>`. Jest to domyślna 'strona', którą hostuje httpd.
 
